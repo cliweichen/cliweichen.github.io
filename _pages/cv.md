@@ -11,46 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **博士在读 (2022级)**, 复旦大学, 社会学, 2022.9 - 2026.6
+* **硕士学位**, 复旦大学, 社会学, 2019.9 - 2022.6
+* **学士学位**, 复旦大学, 社会学, 2015.9 - 2019.6
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **研究方法:** 田野实验、问卷调查、仿真、LM&GLM等回归分析、APC、大数据文本分析、机器学习、网络爬虫
+* **数据分析软件:** R, Python, NetLogo
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Projects
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+  <ul>{% for post in site.projects reversed %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Teaching

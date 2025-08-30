@@ -1,0 +1,14 @@
+---
+title: "Historical Patterns, Evolution of Models, and Future Perspectives of Interdisciplinary Collaboration an Empirical Study Based on Global Scientific Literature Data from 1950 to 2020"
+collection: publications
+permalink: /publication/2024-01-01-interdisciplinary-collaboration-2024
+excerpt: 'This paper presents an empirical study on the patterns and evolution of interdisciplinary collaboration from 1950 to 2020, based on global scientific literature data.'
+date: 2024-01-01
+venue: 'Proceedings of the Third International Workshop on Social and Metaverse Computing, Sensing and Networking'
+category: 'conferences'
+paperurl: 'https://dl.acm.org/doi/10.1145/3698387.3699996'
+citation: 'Zou H, Xu K, <strong>Chen L</strong>, et al. (2024). &quot;Historical Patterns, Evolution of Models, and Future Perspectives of Interdisciplinary Collaboration an Empirical Study Based on Global Scientific Literature Data from 1950 to 2020.&quot; <em>Proceedings of the Third International Workshop on Social and Metaverse Computing, Sensing and Networking</em>, 15-24.'
+---
+Interdisciplinary research is a driving force for the development of new productive forces. Based on 82.6 million scientific papers published between 1950 and 2022, this study analyzes different combinations of disciplines across 27 fields, revealing the development trends and characteristics of interdisciplinary collaborative research through three key dimensions: the degree of collaboration, team size, and research impact. Notably, the study emphasizes the evolving cooperative relationships among authors and how this collaboration dynamic influences interdisciplinary research. It identifies four modes of interdisciplinary collaboration: Emerging and Hot Topics, Structured Hierarchy, Relatively Close Discipline, and Large Project. Further research indicates that Large Project began to emerge after 2010. Additionally, a notable shift in collaboration modes can be observed between 2010 and 2020, transitioning from Emerging and Hot Topics to Structured Hierarchy. Furthermore, this study attempts to analyze the driving factors behind this shift from the perspective of research topics. The findings contribute to understanding the evolution of interdisciplinary collaboration and its driving factors, exploring new interdisciplinary collaboration models, and promoting organized scientific cooperation.
+
+Recommended citation: Zou H, Xu K, <strong>Chen L</strong>, et al. (2024). &quot;Historical Patterns, Evolution of Models, and Future Perspectives of Interdisciplinary Collaboration an Empirical Study Based on Global Scientific Literature Data from 1950 to 2020.&quot; <em>Proceedings of the Third International Workshop on Social and Metaverse Computing, Sensing and Networking</em>, 15-24.

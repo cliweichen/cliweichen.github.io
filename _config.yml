@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Chen Liwei"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Chen Liwei"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,22 +21,22 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "https://i.postimg.cc/B6dncbCZ/Gemini-Generated-Image-u9jok5u9jok5u9jo.png"
+  name             : "Chen Liwei"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "欢迎"
+  location         : "Shanghai, China"
+  employer         : "Fudan University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "chenliwei22@fudan.edu.cn"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://kns.cnki.net/kcms2/author/detail?v=MmR6bzzH81H3UUE1aeo-4MVHs-8y4h2IPIXJHduAiWJXnam7vaCNnvfAc29kT-OMsSBxJBniNrhJwDLrgfcJIPPd1aN4NFphREf6RY4_MjEiSH3mbXhKsIsHectTPF8F&uniplatform=NZKPT&language=CHS"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : ""
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : ""
   researchgate     : # URL
 
   # Repositories and software development
@@ -215,10 +215,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
+  projects:
     output: true
     permalink: /:collection/:path/
 
