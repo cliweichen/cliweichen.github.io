@@ -18,7 +18,7 @@ Education
 Skills
 ======
 * **研究方法:** 田野实验、问卷调查、仿真、LM&GLM等回归分析、APC、大数据文本分析、机器学习、网络爬虫
-* **数据分析软件:** R, Python, NetLogo
+* **数据分析软件:** R，Python
 
 Publications
 ======
@@ -31,13 +31,13 @@ Projects
   <ul>{% for post in site.projects reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams

@@ -2,7 +2,7 @@
 title: "Embedding the Social Value in Algorithmic Innovation and Companies Competitiveness: Evidence from the food-delivery platforms in China"
 collection: publications
 permalink: /publication/2023-01-01-social-value-algorithms-2023
-excerpt: 'This conference paper discusses embedding social value in algorithmic innovation, using evidence from food-delivery platforms in China to analyze the effects of Value Sensitive Design (VSD).'
+excerpt: 'Value Sensitive Design (VSD) is a theory that focuses on embedding ethical values into algorithmic regimes. This research paper examines the mechanism of VSD and its effects in platform-based technology, using a multi-step approach that comprises mixed novel methods such as real-time, high frequency social media data analysis combined with statistical regressions and csQCA. The goal was to establish causal knowledge of investigated variables and provide empirical advice for platform companies.'
 date: 2023-01-01
 venue: '2023 IEEE 43rd International Conference on Distributed Computing Systems Workshops (ICDCSW)'
 category: 'conferences'

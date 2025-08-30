@@ -16,7 +16,7 @@ redirect_from:
 
 您可以通过此网站了解我的研究成果、项目经历和学术动态。
 
-## 最新成果
+## 部分成果
 
 {% for post in site.publications limit:4 %}
   {% include archive-single.html %}

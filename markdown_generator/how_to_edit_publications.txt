@@ -1,0 +1,19 @@
+## 如何更新出版物 (Publications)
+
+本网站的“出版物”内容是半自动生成的，以确保格式统一。
+
+### 更新流程
+
+1.  **编辑数据源**: 打开本目录下的 `publications.tsv` 文件。这是一个用制表符分隔的表格文件，您可以用Excel、Numbers或任何文本编辑器打开它。
+
+2.  **添加/修改论文**: 在 `publications.tsv` 文件中，按行添加或修改您的论文信息。请确保所有列（如 `pub_date`, `title`, `venue` 等）都填写正确。
+
+3.  **运行生成脚本**: 修改完 `publications.tsv` 后，您需要运行Python脚本来将这些数据转换成网站所需的 `.md` 文件。在终端中，进入 `markdown_generator` 目录，然后运行：
+    ```bash
+    python publications.py
+    ```
+
+4.  **预览/提交**: 运行脚本后，所有更改就已经生成。您可以启动本地预览或直接提交到GitHub来查看效果。
+
+---
+**总结**: 您的工作流应该是 `修改 publications.tsv` -> `运行 publications.py` -> `预览或提交`。
